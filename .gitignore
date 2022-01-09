@@ -1,0 +1,4 @@
+node_modules
+package-lock.json
+/smart_contract/node_modules
+/smart_contract/package-lock.json
